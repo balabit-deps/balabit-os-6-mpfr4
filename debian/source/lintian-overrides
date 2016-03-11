@@ -1,0 +1,5 @@
+# lintian complaining about debian/copyright
+mpfr4 source: license-problem-gfdl-invariants
+
+# lintian complaining about case sensitivity, really ...
+mpfr4 source: license-problem-gfdl-non-official-text
